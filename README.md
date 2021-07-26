@@ -1,5 +1,5 @@
 # Launchstore
-Aplicação de compra e vendas
+Aplicação de compra e vendas.
 
 # Frontend Technologies
 - HTML
